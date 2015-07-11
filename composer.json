@@ -1,5 +1,6 @@
 {
 	"name": "ycms/advanced-custom-fields",
+	"type": "wordpress-plugin",
 	"description": "",
 	"authors": [
 
